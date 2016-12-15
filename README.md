@@ -34,7 +34,7 @@ a list of tags.
 
 	$('#tags').tagsInput();
 
-If you want to use jQuery.autocomplete, you can pass in a parameter with the
+If you want to use [jQuery.autocomplete](http://api.jqueryui.com/autocomplete/#option-source), you can pass in a parameter with the
 autocomplete url.
 
 	$('#tags').tagsInput({
